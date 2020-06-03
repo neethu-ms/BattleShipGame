@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/neethu-ms/BattleShipGame/issues"
   },
-  "homepage": "https://github.com/neethu-ms/BattleShipGame#readme"
+  "homepage": "https://github.com/neethu-ms/BattleShipGame#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
