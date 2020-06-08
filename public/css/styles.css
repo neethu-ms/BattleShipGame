@@ -12,3 +12,11 @@ table{
   margin-left:50px;
 
 }
+
+#player{
+  background-color: antiquewhite;
+}
+
+#opponent{
+  background-color: lightskyblue;
+}
