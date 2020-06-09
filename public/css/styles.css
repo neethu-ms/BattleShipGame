@@ -20,3 +20,9 @@ table{
 #opponent{
   background-color: lightskyblue;
 }
+
+caption{
+  font-size: 40px;
+  font-style: bold;
+  color:red;
+}
