@@ -1,5 +1,17 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+
+h1{
+    color: Green;
+    text-align: center;
+}
+
 table, tr, td {
   border : 3px solid black;
+ 
 }
 
 td{
@@ -25,4 +37,14 @@ caption{
   font-size: 40px;
   font-style: bold;
   color:red;
+}
+
+a{
+  display:block;
+  width:100%;
+  height:100%;
+}
+
+a:hover{
+  background-color: red;
 }
